@@ -25,7 +25,7 @@ With the use and feedback of the project, will user experience and function opti
 * ### [Flutter 完整开发实战详解(三、打包填坑篇)](https://juejin.im/entry/5b6fd5ee6fb9a009d36a4104 )
 * ### [Flutter 完整开发实战详解(四、Redux、主题、国际化)](https://juejin.im/post/5b79767ff265da435450a873 )
 * ### [Flutter 完整开发实战详解(五、深入探索)](https://juejin.im/post/5bc450dff265da0a951f032b )
-
+* ### [Flutter 完整开发实战详解(六、 深入Widget原理)](https://juejin.im/post/5c7e853151882549664b0543 )
 
 
 
@@ -37,7 +37,7 @@ With the use and feedback of the project, will user experience and function opti
 
 ### Operation instructions
 
-1. Configure the Flutter development environment (Tag of the current version of Flutter SDK ** v1.1.9 **).
+1. Configure the Flutter development environment (Tag of the current version of Flutter SDK ** v1.3.2 **).
 
 2. Clone code, execute `Packages get'to install third-party packages.
 
@@ -60,7 +60,7 @@ With the use and feedback of the project, will user experience and function opti
 
 4、Be careful
 
->### Local Flutter SDK version v1.1.9 or more. 2. Does the third-party package version in pubspec. yaml correspond to the third-party package version in pubspec. lock?
+>### Local Flutter SDK version v1.3.2 or more. 2. Does the third-party package version in pubspec. yaml correspond to the third-party package version in pubspec. lock?
 
 
 ## Project Structure
@@ -97,7 +97,7 @@ With the use and feedback of the project, will user experience and function opti
 
 ### Third-party framework
 
->Current Flutter SDK version v1.1.9
+>Current Flutter SDK version v1.3.2
 
 | 库                          | 功能             |
 | -------------------------- | -------------- |
